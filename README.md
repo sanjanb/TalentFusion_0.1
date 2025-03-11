@@ -34,7 +34,7 @@ Before you begin, ensure you have the following installed:
 
 - Python 3.x
 - Node.js and npm
-- PostgreSQL (or Supabase account)
+- PostgreSQL (or firebase account)
 - Git
 
 ### Installation
@@ -81,7 +81,7 @@ Before you begin, ensure you have the following installed:
 
 - **Backend:** Flask (Python)
 - **Frontend:** React
-- **Database:** PostgreSQL (Supabase)
+- **Database:** PostgreSQL (firebase)
 - **AI Models:**
   - CNN & NLP for resume analysis
   - GPT for portfolio generation
